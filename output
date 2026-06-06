@@ -1,0 +1,6 @@
+Model Evaluation:
+  Mean Absolute Error (MAE): 174662.93
+  R-squared (R²): 0.51
+
+Example Prediction:
+  Predicted Price for a new house: ₹ 483924.64
